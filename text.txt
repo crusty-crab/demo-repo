@@ -1,2 +1,0 @@
-This is first text file
-This is new line in main branch
